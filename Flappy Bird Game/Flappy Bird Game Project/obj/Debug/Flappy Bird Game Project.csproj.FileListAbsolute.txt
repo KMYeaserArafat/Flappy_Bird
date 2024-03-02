@@ -1,0 +1,11 @@
+E:\Flappy Bird Game\Flappy Bird Game Project\bin\Debug\Flappy Bird Game Project.exe.config
+E:\Flappy Bird Game\Flappy Bird Game Project\bin\Debug\Flappy Bird Game Project.exe
+E:\Flappy Bird Game\Flappy Bird Game Project\bin\Debug\Flappy Bird Game Project.pdb
+E:\Flappy Bird Game\Flappy Bird Game Project\obj\Debug\Flappy Bird Game Project.csproj.AssemblyReference.cache
+E:\Flappy Bird Game\Flappy Bird Game Project\obj\Debug\Flappy Bird Game Project.csproj.SuggestedBindingRedirects.cache
+E:\Flappy Bird Game\Flappy Bird Game Project\obj\Debug\Flappy_Bird_Game_Project.FormGame.resources
+E:\Flappy Bird Game\Flappy Bird Game Project\obj\Debug\Flappy_Bird_Game_Project.Properties.Resources.resources
+E:\Flappy Bird Game\Flappy Bird Game Project\obj\Debug\Flappy Bird Game Project.csproj.GenerateResource.cache
+E:\Flappy Bird Game\Flappy Bird Game Project\obj\Debug\Flappy Bird Game Project.csproj.CoreCompileInputs.cache
+E:\Flappy Bird Game\Flappy Bird Game Project\obj\Debug\Flappy Bird Game Project.exe
+E:\Flappy Bird Game\Flappy Bird Game Project\obj\Debug\Flappy Bird Game Project.pdb
